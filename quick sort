@@ -58,7 +58,7 @@ int main() {
     double time_taken = ((double)(end_time - start_time)) / CLOCKS_PER_SEC;
     printf("Quick Sort Time: %f seconds\n", time_taken);
 
-    printf("G Rakshitha 1BM21CS258");
+   
     free(arr);
     return 0;
 }
